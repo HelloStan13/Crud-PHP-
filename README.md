@@ -1,5 +1,6 @@
-# CRUD SIMPLE CON PHP BY ADRYAN
-tecnologias usadas
+# CRUD CON PHP "Administración de tareas"
+
+### Tecnologias usadas
 
 - html
 - php
@@ -7,12 +8,13 @@ tecnologias usadas
 - boostrap
 
 
-## Requerido
+### Requerido
 ```sh
 crear base de datos -> phy_crud_mysql
 crear columnas en la tabla task(TAREA) id, title, description and created_at (timestamp)
 ```
 
+### SQL - Base de datos
 /*query*/
 
  create database php_crud_mysql;
@@ -26,3 +28,5 @@ crear columnas en la tabla task(TAREA) id, title, description and created_at (ti
   PRIMARY KEY (`id`));
 
   /*fin query*/
+  
+  ### Adryan Ynfante adryanynfante@gmail.com
