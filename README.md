@@ -28,5 +28,15 @@ crear columnas en la tabla task(TAREA) id, title, description and created_at (ti
   PRIMARY KEY (`id`));
 
   /*fin query*/
+  ### Visual CRUD (Create, Read, Update, Delete)
+  ![image](https://user-images.githubusercontent.com/92740455/166474059-25af2f84-fd4f-46af-b927-3b620b410db2.png)
+![image](https://user-images.githubusercontent.com/92740455/166474086-2d6376a9-2157-49ad-b7a0-61e74d70d491.png)
+![image](https://user-images.githubusercontent.com/92740455/166474120-3416e5aa-101d-4f9b-8d29-4de01127a4d3.png)
+![image](https://user-images.githubusercontent.com/92740455/166474141-29fb8a9d-7c48-435f-b3b1-59bf6deef656.png)
+![image](https://user-images.githubusercontent.com/92740455/166474162-25016f26-0831-411c-8d5d-790abcda5c2a.png)
+
+
+
+
   
   ### Adryan Ynfante adryanynfante@gmail.com
